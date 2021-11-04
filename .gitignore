@@ -113,3 +113,5 @@ coverage
 
 
 data
+/docker-compose.yml
+/silverstrikedb/
